@@ -11,6 +11,6 @@
   
 <style>
 body {
-  background-image: url('1609246603.boxgoat_lugia.jpg');
+  background-image: url('CDG-dark-gray-background-repeating-2.jpg');
 }
 </style>
