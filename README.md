@@ -6,12 +6,6 @@
 <a href="https://www.youtube.com/channel/UCvCqFqDZF2JZgaxzSXCnqHw">My YouTube Channel</a>
 <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
   
-//<style>
-body {
-  background-image: url('CDG-dark-gray-background-repeating-2.jpg');//
-}
-</style>
-  
 # Here is some Free Tracks you could have.
 
 <p> These are free btw
