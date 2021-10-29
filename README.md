@@ -8,3 +8,5 @@
  <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
 
 <p> Resources and More are coming soon! when i learn how to put in files to downlaod lol
+  
+<div style="background-image: url('img_girl.jpg');">
