@@ -7,4 +7,4 @@
  <a href="https://www.youtube.com/channel/UCvCqFqDZF2JZgaxzSXCnqHw">My YouTube Channel</a>
  <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
 
- ### Resources and More are coming soon! (when i learn how to put in files to downlaod lol)
+<p> Resources and More are coming soon! (when i learn how to put in files to downlaod lol)
