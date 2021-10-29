@@ -9,3 +9,8 @@
 <p> Resources and More are coming soon! when i learn how to put in files to downlaod haha
   
 <div style="background-image: url('CDG-dark-gray-background-repeating-2.jpg');">
+
+  
+  <audio controls autoplay>
+  <source src="MajorKick" type="audio/wav">
+</audio>
