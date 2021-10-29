@@ -7,10 +7,6 @@
  <a href="https://www.youtube.com/channel/UCvCqFqDZF2JZgaxzSXCnqHw">My YouTube Channel</a>
  <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
 
-<p> Resources and More are coming soon! when i learn how to put in files to downlaod lol
+<p> Resources and More are coming soon! when i learn how to put in files to downlaod haha
   
-<style>
-body {
-  background-image: url('1609246603.boxgoat_lugia.jpg');
-}
-</style>
+<div style="background-image: url('1609246603.boxgoat_lugia.jpg');">
