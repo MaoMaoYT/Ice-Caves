@@ -9,4 +9,8 @@
 
 <p> Resources and More are coming soon! when i learn how to put in files to downlaod haha
   
-<div style="background-image: url('1609246603.boxgoat_lugia.jpg');">
+<style>
+body {
+  background-image: url('1609246603.boxgoat_lugia.jpg');
+}
+</style>
