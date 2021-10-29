@@ -6,9 +6,9 @@
 <a href="https://www.youtube.com/channel/UCvCqFqDZF2JZgaxzSXCnqHw">My YouTube Channel</a>
 <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
   
-<style>
+//<style>
 body {
-  background-image: url('CDG-dark-gray-background-repeating-2.jpg');
+  background-image: url('CDG-dark-gray-background-repeating-2.jpg');//
 }
 </style>
   
