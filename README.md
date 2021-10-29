@@ -12,7 +12,7 @@ body {
 }
 </style>
   
-#Here is some Free Tracks you could have.
+# Here is some Free Tracks you could have.
 
 <p> These are free btw
 <p> just as long as you credit me you wont get copyrighted
@@ -23,7 +23,7 @@ Your browser does not support the audio element.
 </audio>
 
   
-#Here are some Samples you can Have
+# Here are some Samples you can Have
   
 <p> I use these pretty Frequently
   
