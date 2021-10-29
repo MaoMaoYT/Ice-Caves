@@ -9,8 +9,4 @@
 
 <p> Resources and More are coming soon! when i learn how to put in files to downlaod haha
   
-<style>
-body {
-  background-image: url('CDG-dark-gray-background-repeating-2.jpg');
-}
-</style>
+<div style="background-image: url('CDG-dark-gray-background-repeating-2.jpg');">
