@@ -11,6 +11,7 @@
 <div style="background-image: url('CDG-dark-gray-background-repeating-2.jpg');">
 
   
-  <audio controls autoplay>
-  <source src="MajorKick" type="audio/wav">
+<audio controls autoplay>
+  <source src="MajorKick.wav" type="audio/wav">
+Your browser does not support the audio element.
 </audio>
