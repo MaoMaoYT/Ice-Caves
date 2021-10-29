@@ -5,8 +5,6 @@
   
 <a href="https://www.youtube.com/channel/UCvCqFqDZF2JZgaxzSXCnqHw">My YouTube Channel</a>
 <a href="https://antarctictrax.bandcamp.com/">My Bandcamp Stuff</a>
-
-<p> Resources and More are coming soon! when i learn how to put in files to downlaod haha
   
 <style>
 body {
@@ -19,3 +17,5 @@ body {
   <source src="MajorKick.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+  
+<a href=""><button type="button">Drum Samples</button>
